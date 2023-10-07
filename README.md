@@ -74,7 +74,13 @@
         </tr>
         <tr>
             <td>17</td>
-            <td></td>
+            <td>Write a program in PHP to print alphabet triangle give below: <br>
+              AAAAAA<br>
+              BBBB<br>
+              CCC<br>
+              DD<br>
+              E
+            </td>
         </tr>
         <tr>
             <td>18</td>
