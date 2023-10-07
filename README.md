@@ -84,23 +84,57 @@
         </tr>
         <tr>
             <td>18</td>
-            <td></td>
+            <td>Write a program in PHP to print the triangle forment given below:<br>
+              1<br>
+              12<br>
+              123<br>
+              1234<br>
+              12345<br>
+              </td>
         </tr>
         <tr>
             <td>19</td>
-            <td></td>
+             <td>Write a program in PHP to print the triangle forment given below:<br>
+              1<br>
+              11<br>
+              111<br>
+              1111<br>
+              11111<br>
+              </td>
         </tr>
         <tr>
             <td>20</td>
-            <td></td>
+            <td>Write a program in PHP to print the triangle forment given below:<br>
+              54321<br>
+              4321<br>
+              321<br>
+              21<br>
+              1<br>
+              </td>
         </tr>
         <tr>
             <td>21</td>
-            <td></td>
+             <td>Write a program in PHP to print the triangle forment given below:<br>
+              55555<br>
+              4444<br>
+              333<br>
+              22<br>
+              1<br>
+              </td>
         </tr>
         <tr>
             <td>22</td>
-            <td></td>
+             <td>Write a program in PHP to print the star triangle forment given below:<br>
+              *<br>
+              **<br>
+              ***<br>
+              ****<br>
+              *****<br>
+              ****<br>
+              ***<br>
+              **<br>
+              *<br>
+              </td>
         </tr>
         <tr>
             <td>23</td>
